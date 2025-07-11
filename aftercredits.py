@@ -47,7 +47,6 @@ while url:
             media_response = html.fromstring(requests.get(media_url, headers=headers).content)
             imdb_url = media_response.xpath("//a[text()='IMDb']/@href")
             if not imdb_url:
-                #logger.info(content)
                 raise ValueError(f"Skipped {media_url}: IMDb URL not found")
 
             res = re.search(r".*/(tt\d*)/.*", imdb_url[0])
@@ -55,7 +54,9 @@ while url:
             if imdb_id is None:
                 raise ValueError(f"Skipped {media_url}: IMDb ID not found")
 
-            tags = [str(t) for t in media_response.xpath("//li[@class='entry-category']/a/text()")]
+            tags = [str(t) for t in media_response.xpath("//li[@class='entry-category']/a/text()") if str(t) not in ["Now Showing", "Stingers"]]
+            if "Games" in tags:
+                raise ValueError(f"Skipped {media_url}: Video Game")
             rating_data = media_response.xpath("//span[@class='post-ratings']/strong/text()")
             rating = int(rating_data[0]) if rating_data else 0
             votes = int(rating_data[1]) if rating_data else 0
