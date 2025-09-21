@@ -1,6 +1,6 @@
-tt13650700: {rating: -1, votes: 3, tags: [Bonus Scene, Both During & After Credits]}
+tt13650700: {rating: -2, votes: 4, tags: [Bonus Scene, Both During & After Credits]}
 tt31888477: {rating: 4, votes: 4, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
-tt22898462: {rating: 2, votes: 30, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
+tt22898462: {rating: 0, votes: 34, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
 tt8503618: {rating: -1, votes: 3, tags: [After Credits, Bonus Scene]}
 tt1633359: {rating: 14, votes: 16, tags: [Bonus Scene, Both During & After Credits, Sequel Setup]}
 tt35719293: {rating: 0, votes: 6, tags: [After Credits, Bonus Scene]}
@@ -8,7 +8,7 @@ tt1493274: {rating: 10, votes: 14, tags: [Bonus Scene, During Credits]}
 tt33372496: {rating: 2, votes: 2, tags: [After Credits, Mega Post, Behind the Scenes, Bonus Scene]}
 tt16233642: {rating: 0, votes: 2, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
 tt34966650: {rating: 6, votes: 6, tags: [During Credits, Musical]}
-tt31956415: {rating: 5, votes: 11, tags: [Blooper, Bonus Scene, During Credits]}
+tt31956415: {rating: 4, votes: 10, tags: [Blooper, Bonus Scene, During Credits]}
 tt30254719: {rating: 3, votes: 3, tags: [Bonus Scene, During Credits]}
 tt3402138: {rating: 41, votes: 59, tags: [Bonus Scene, Both During & After Credits]}
 tt30017619: {rating: -7, votes: 41, tags: [Bonus Scene, Both During & After Credits]}
@@ -16,7 +16,7 @@ tt10676052: {rating: -18, votes: 154, tags: [Bonus Scene, Both During & After Cr
 tt33292655: {rating: 0, votes: 6, tags: [Bonus Scene, During Credits]}
 tt4045450: {rating: 23, votes: 33, tags: [Bonus Scene, During Credits, Sequel Setup]}
 tt18069420: {rating: -1, votes: 15, tags: [Bonus Scene, During Credits, Sequel Setup]}
-tt5950044: {rating: -13, votes: 237, tags: [Bonus Scene, Both During & After Credits]}
+tt5950044: {rating: -15, votes: 239, tags: [Bonus Scene, Both During & After Credits]}
 tt17538632: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt16311594: {rating: 19, votes: 55, tags: [Bonus Scene, During Credits]}
 tt26342662: {rating: -2, votes: 24, tags: [Bonus Scene, During Credits, Musical]}
@@ -24,10 +24,11 @@ tt21317634: {rating: 3, votes: 7, tags: [Blooper, Outtake]}
 tt4900148: {rating: -4, votes: 36, tags: [Bonus Scene, Both During & After Credits]}
 tt30253473: {rating: 3, votes: 17, tags: [Bonus Scene, During Credits]}
 tt26743210: {rating: -77, votes: 133, tags: [Bonus Scene, Both During & After Credits, Still Images]}
-tt27623406: {rating: 0, votes: 8, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
+tt27623406: {rating: 1, votes: 9, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
 tt11655566: {rating: 21, votes: 31, tags: [Bonus Scene, During Credits]}
 tt11001074: {rating: 4, votes: 4, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Informative]}
 tt8679660: {rating: 0, votes: 0, tags: [Still Images]}
+tt27813235: {rating: 0, votes: 6, tags: [Audio, During Credits]}
 tt19637220: {rating: 0, votes: 0, tags: [Bonus Scene, Sequel Setup]}
 tt31193180: {rating: 43, votes: 91, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Musical]}
 tt13491834: {rating: 1, votes: 1, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
@@ -49,8 +50,6 @@ tt27714946: {rating: -1, votes: 27, tags: [After Credits]}
 tt14513804: {rating: 17, votes: 99, tags: [After Credits, Bonus Scene, Sequel Setup]}
 tt5822536: {rating: 12, votes: 20, tags: [Bonus Scene, Both During & After Credits]}
 tt14961016: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Still Images]}
-tt23853982: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
-tt32558992: {rating: 13, votes: 15, tags: [Bonus Scene, During Credits]}
 tt26584495: {rating: 24, votes: 28, tags: [Bonus Scene, During Credits]}
 tt31050620: {rating: 5, votes: 5, tags: [Bonus Scene, During Credits]}
 tt23951384: {rating: 3, votes: 3, tags: [After Credits, Bonus Scene]}
@@ -76,10 +75,8 @@ tt29623480: {rating: 6, votes: 8, tags: [After Credits, Bonus Scene]}
 tt15727262: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt15823456: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt5112584: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Still Images]}
-tt8864596: {rating: -2, votes: 4, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
 tt28658276: {rating: 0, votes: 0, tags: [Blooper, Both During & After Credits, Outtake]}
 tt33034103: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
-tt1723808: {rating: -1, votes: 1, tags: [Bonus Scene, Both During & After Credits]}
 tt15685360: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
 tt22815732: {rating: 1, votes: 1, tags: [Bonus Scene, During Credits]}
 tt24577462: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
@@ -87,6 +84,7 @@ tt22375054: {rating: 3, votes: 3, tags: [After Credits, Audio, Dedications/In Me
 tt26731216: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt27722575: {rating: 0, votes: 0, tags: [Bonus Scene]}
 tt4978420: {rating: -1, votes: 5, tags: [Bonus Scene, During Credits]}
+tt26753003: {rating: 4, votes: 4, tags: [Bonus Scene, During Credits]}
 tt1609486: {rating: -1, votes: 1, tags: [Bonus Scene, During Credits]}
 tt6263850: {rating: 5, votes: 5, tags: [Mega Post, Behind the Scenes, Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
 tt27367464: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Still Images]}
@@ -105,7 +103,6 @@ tt23778968: {rating: 2, votes: 2, tags: [Bonus Scene, Dedications/In Memoriam, D
 tt22022452: {rating: 2, votes: 2, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
 tt30321095: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt15782954: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
-tt13818742: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
 tt26928684: {rating: 0, votes: 0, tags: [During Credits, Outtake]}
 tt30476486: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Sequel Setup]}
 tt20315818: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
@@ -116,6 +113,7 @@ tt11389872: {rating: -5, votes: 5, tags: [After Credits, Audio]}
 tt1684562: {rating: 2, votes: 2, tags: [Mega Post, Behind the Scenes, Bonus Scene, During Credits]}
 tt23638614: {rating: 1, votes: 1, tags: [Blooper, Both During & After Credits]}
 tt13923084: {rating: -1, votes: 1, tags: [Bonus Scene, During Credits]}
+tt27489557: {rating: 0, votes: 2, tags: [After Credits, Audio, Dedications/In Memoriam]}
 tt15353574: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt28000235: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
 tt26684398: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
@@ -127,7 +125,7 @@ tt21235248: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, D
 tt10720352: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
 tt19637052: {rating: 0, votes: 0, tags: [Bonus Scene]}
 tt21692408: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
-tt30395619: {rating: 0, votes: 0, tags: [After Credits, Still Images]}
+tt30395619: {rating: -2, votes: 2, tags: [After Credits, Still Images]}
 tt26612950: {rating: 1, votes: 1, tags: [Bonus Scene, During Credits, Sunset Credit]}
 tt15678810: {rating: 0, votes: 0, tags: [After Credits, Audio]}
 tt8521778: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam]}
@@ -164,7 +162,6 @@ tt4495098: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt17527468: {rating: 0, votes: 0, tags: [Blooper, During Credits]}
 tt6906292: {rating: 0, votes: 0, tags: [Audio, During Credits]}
 tt27688034: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
-tt6048442: {rating: 0, votes: 0, tags: [Dedications/In Memoriam, During Credits, Outtake]}
 tt15153532: {rating: 1, votes: 1, tags: [Bonus Scene, During Credits]}
 tt9362930: {rating: 0, votes: 2, tags: [Bonus Scene, Dedications/In Memoriam, Sequel Setup]}
 tt15768848: {rating: 0, votes: 0, tags: [Bonus Scene]}
@@ -173,18 +170,25 @@ tt27047448: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, D
 tt8589698: {rating: 1, votes: 1, tags: [Bonus Scene, During Credits, Sequel Setup]}
 tt15242330: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
 tt3917710: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
-tt9603212: {rating: -4, votes: 6, tags: [After Credits, Audio, Dedications/In Memoriam, Sequel Setup]}
+tt9603212: {rating: -3, votes: 5, tags: [After Credits, Audio, Dedications/In Memoriam, Sequel Setup]}
 tt13405778: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Sequel Setup]}
 tt7599146: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt15789038: {rating: 1, votes: 1, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
-tt0439572: {rating: -1, votes: 1, tags: [Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt0439572: {rating: -2, votes: 2, tags: [Bonus Scene, Both During & After Credits, Sequel Setup]}
 tt11703244: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt5090568: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
 tt11040844: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt5433140: {rating: 2, votes: 2, tags: [Bonus Scene, During Credits]}
 tt8080204: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
 tt10276482: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
-tt6791350: {rating: 1, votes: 1, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
+tt12226632: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Informative]}
+tt4873118: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt13345606: {rating: -2, votes: 2, tags: [Audio, Bonus Scene, Both During & After Credits]}
+tt16428256: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt14537248: {rating: 5, votes: 5, tags: [After Credits, Audio]}
+tt11358390: {rating: -1, votes: 1, tags: [Bonus Scene, Both During & After Credits]}
+tt14472156: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt11820950: {rating: -1, votes: 1, tags: [Bonus Scene]}
 tt13929998: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
 tt15783426: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
 tt21440780: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
@@ -206,4 +210,398 @@ tt14209916: {rating: -1, votes: 1, tags: [Audio, Bonus Scene, Both During & Afte
 tt10098448: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
 tt23177868: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
 tt10954600: {rating: 1, votes: 1, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Sequel Setup]}
-tt13528122: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Sunset Credit]}
+tt10473036: {rating: 0, votes: 0, tags: [After Credits, Dedications/In Memoriam, Still Images]}
+tt12830948: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt15679400: {rating: 0, votes: 0, tags: [After Credits, Audio]}
+tt18079362: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Still Images]}
+tt8005118: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt13669038: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt7405458: {rating: 0, votes: 0, tags: [Dedications/In Memoriam, During Credits, Still Images]}
+tt12193804: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam]}
+tt11992694: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6160448: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7775720: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt3915174: {rating: 0, votes: 2, tags: [After Credits, Audio]}
+tt7693316: {rating: 0, votes: 0, tags: [Both During & After Credits, Dedications/In Memoriam, Still Images]}
+tt1488589: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt10999120: {rating: 0, votes: 2, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Musical, Sunset Credit]}
+tt9114286: {rating: 1, votes: 1, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Sequel Setup]}
+tt1657865: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt14109724: {rating: 0, votes: 0, tags: [Blooper, During Credits]}
+tt9365800: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10304142: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt15131130: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Outtake]}
+tt11909878: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt10268488: {rating: 0, votes: 0, tags: [After Credits, Informative, Still Images]}
+tt3104956: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt12444934: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt12718300: {rating: 0, votes: 0, tags: [After Credits, Audio]}
+tt11128440: {rating: 0, votes: 0, tags: [Audio, Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Informative]}
+tt18925334: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt8093700: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9883832: {rating: 0, votes: 0, tags: [After Credits, Audio]}
+tt14871354: {rating: 0, votes: 0, tags: [Dedications/In Memoriam, During Credits, Sunset Credit]}
+tt8883486: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt15791034: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt14614892: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt13328800: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt11952606: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, During Credits]}
+tt12593682: {rating: 0, votes: 2, tags: [Bonus Scene, During Credits]}
+tt8912936: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt15339456: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt10954984: {rating: 0, votes: 2, tags: [After Credits, Still Images]}
+tt4428398: {rating: -1, votes: 1, tags: [Bonus Scene, Both During & After Credits]}
+tt10648342: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt5113044: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt13270424: {rating: 0, votes: 0, tags: [Audio, During Credits, Still Images]}
+tt10298810: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Sequel Setup]}
+tt15218000: {rating: 0, votes: 0, tags: [After Credits, Audio]}
+tt8009428: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7466442: {rating: 2, votes: 2, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
+tt3513500: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9419884: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt8115900: {rating: 3, votes: 3, tags: [Bonus Scene, During Credits, Still Images]}
+tt9005184: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam]}
+tt14439896: {rating: 0, votes: 0, tags: [Audio, Bonus Scene, Dedications/In Memoriam, During Credits, Still Images]}
+tt12412888: {rating: 1, votes: 3, tags: [Bonus Scene, During Credits, Sequel Setup]}
+tt5108870: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sequel Setup]}
+tt2180339: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt13320622: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt13560574: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Sequel Setup]}
+tt14331144: {rating: 1, votes: 1, tags: [After Credits, Bonus Scene, Sequel Setup]}
+tt8097030: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt3580748: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt11454320: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt14850172: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt1877830: {rating: -3, votes: 3, tags: [After Credits, Bonus Scene, Dedications/In Memoriam, Sequel Setup]}
+tt10503736: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt1464335: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10223460: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt11466222: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, During Credits, Outtake, Sequel Setup]}
+tt7985704: {rating: 0, votes: 0, tags: [Bonus Scene]}
+tt3108894: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9848626: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt10838180: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt6856242: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt11729298: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt9100054: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10872600: {rating: 1, votes: 1, tags: [Bonus Scene, Both During & After Credits, Sequel Setup, Mega Post, Trailers]}
+tt7740496: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6920084: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9620288: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10986222: {rating: 0, votes: 0, tags: [Audio, Dedications/In Memoriam, During Credits]}
+tt4513678: {rating: 1, votes: 1, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Sequel Setup]}
+tt7991608: {rating: -1, votes: 1, tags: [After Credits, Audio]}
+tt11738830: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9032400: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt13544716: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7504818: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt8241000: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8456190: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7097896: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8110232: {rating: 0, votes: 0, tags: [Bonus Scene]}
+tt11271800: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt14857602: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt9115530: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt11826450: {rating: 0, votes: 0, tags: [Blooper, During Credits]}
+tt10441822: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt6561576: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt9376612: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Sequel Setup]}
+tt10715446: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9347730: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2452150: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical, Still Images]}
+tt6246322: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt6334354: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt6217926: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt9243804: {rating: -1, votes: 1, tags: [After Credits, Bonus Scene]}
+tt14673560: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt8404256: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sequel Setup]}
+tt14731254: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt11003218: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt3480822: {rating: 1, votes: 1, tags: [After Credits, Bonus Scene, Sequel Setup]}
+tt11422728: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Still Images]}
+tt5433138: {rating: 0, votes: 0, tags: [Bonus Scene, Coming Soon, During Credits, Sequel Setup]}
+tt12801262: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt4733624: {rating: 0, votes: 0, tags: [Bonus Scene]}
+tt8385148: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Still Images]}
+tt8610436: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, Still Images]}
+tt10741846: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8482584: {rating: 0, votes: 0, tags: [During Credits, Informative, Still Images]}
+tt1321510: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt8376234: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7524444: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sequel Setup]}
+tt8338076: {rating: 0, votes: 0, tags: [Dedications/In Memoriam, During Credits, Still Images]}
+tt7069210: {rating: 0, votes: 0, tags: [Audio, Bonus Scene, During Credits, Still Images]}
+tt6384920: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt3228774: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7050946: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9883996: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
+tt2093056: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt11655202: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sunset Credit]}
+tt7979580: {rating: -1, votes: 1, tags: [Audio, Bonus Scene, Both During & After Credits, Still Images]}
+tt3917506: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt4779326: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt10855798: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt10344522: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt9173154: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt11867884: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2241557: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt6523526: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Still Images]}
+tt9849004: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt6802400: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, Both During & After Credits]}
+tt11459366: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt8521718: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Musical]}
+tt1361336: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt9731682: {rating: 0, votes: 0, tags: [During Credits, Sunset Credit]}
+tt10334148: {rating: 0, votes: 0, tags: [Audio, Dedications/In Memoriam, During Credits]}
+tt4761112: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7737640: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10037014: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9179096: {rating: 0, votes: 0, tags: [Dedications/In Memoriam, During Credits, Still Images]}
+tt2235372: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
+tt13061914: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt11358166: {rating: 0, votes: 0, tags: [After Credits, Audio, Dedications/In Memoriam]}
+tt10539608: {rating: 0, votes: 0, tags: [During Credits, Sunset Credit]}
+tt7126948: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2948372: {rating: 1, votes: 3, tags: [Bonus Scene, Dedications/In Memoriam, Fourth Wall]}
+tt6475714: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9472532: {rating: 0, votes: 0, tags: [After Credits, Audio]}
+tt8560172: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2850386: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9695722: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, During Credits, Outtake]}
+tt10362466: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8846176: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt9308382: {rating: 0, votes: 0, tags: [After Credits, Audio]}
+tt10309552: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8160834: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt3661394: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
+tt12538822: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10556022: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2140571: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sunset Credit]}
+tt0098439: {rating: 0, votes: 0, tags: [During Credits, Still Images, Sunset Credit]}
+tt0101452: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt3547306: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt7939766: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt7294150: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Still Images]}
+tt4532038: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, Coming Soon, During Credits, Outtake]}
+tt1086064: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2197936: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt7550000: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9059704: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt12607910: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt0829482: {rating: 1, votes: 1, tags: [Audio, Bonus Scene, Both During & After Credits]}
+tt9777644: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt3152592: {rating: 1, votes: 1, tags: [Bonus Scene, During Credits]}
+tt5805768: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt9684220: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, Dedications/In Memoriam, During Credits, Outtake]}
+tt8372298: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9148706: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt0181875: {rating: 0, votes: 0, tags: [Audio, Bonus Scene, Both During & After Credits]}
+tt12036052: {rating: 0, votes: 0, tags: [Mega Post, Behind the Scenes, Bonus Scene, During Credits]}
+tt10055028: {rating: 0, votes: 0, tags: [Mega Post, Behind the Scenes, Bonus Scene]}
+tt8323120: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6587640: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
+tt6285944: {rating: 0, votes: 0, tags: [Dedications/In Memoriam, During Credits, Still Images]}
+tt8233874: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt5314450: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8976664: {rating: 0, votes: 0, tags: [Bonus Scene]}
+tt8551848: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Sunset Credit]}
+tt7129636: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt3794354: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sequel Setup]}
+tt7798646: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt6088876: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7713068: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, After Credits, Bonus Scene, Fourth Wall, Sequel Setup]}
+tt9877170: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6522668: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt11285908: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2404465: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7590074: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt0172156: {rating: 0, votes: 0, tags: [Bonus Scene]}
+tt8367814: {rating: 0, votes: 0, tags: [During Credits, Musical]}
+tt7510346: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt1502397: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, During Credits]}
+tt6673612: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, During Credits]}
+tt4354756: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10287376: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6865630: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7025388: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sunset Credit]}
+tt5536610: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Sunset Credit]}
+tt8404614: {rating: 1, votes: 1, tags: [Bonus Scene, Both During & After Credits]}
+tt8106534: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9288776: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt5814534: {rating: 1, votes: 1, tags: [3D/4D/IMAX Quality Poll, After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt4916630: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Informative]}
+tt7975244: {rating: -1, votes: 1, tags: [3D/4D/IMAX Quality Poll, Audio, Bonus Scene]}
+tt4199898: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt8946378: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt8722346: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt7653254: {rating: 0, votes: 0, tags: [During Credits, Sunset Credit]}
+tt4520988: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Activity Kit, After Credits, Bonus Scene]}
+tt3224458: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Musical]}
+tt5033998: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, During Credits]}
+tt8652728: {rating: 0, votes: 0, tags: [Audio, Dedications/In Memoriam, During Credits]}
+tt6924650: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Musical]}
+tt8151874: {rating: 0, votes: 0, tags: [Audio, Bonus Scene, During Credits, Still Images]}
+tt9134216: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, During Credits, Outtake]}
+tt9586294: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8591260: {rating: 0, votes: 0, tags: [Dedications/In Memoriam, During Credits, Still Images]}
+tt7390646: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10039344: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7721946: {rating: 0, votes: 0, tags: [Blooper, During Credits, Outtake]}
+tt10687158: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Musical]}
+tt0783640: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt6521876: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Outtake]}
+tt1560220: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt9635616: {rating: 0, votes: 0, tags: [During Credits]}
+tt7914416: {rating: 0, votes: 0, tags: [Mega Post, Behind the Scenes, Bonus Scene, During Credits]}
+tt10927906: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9354944: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt9097270: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt6324278: {rating: -1, votes: 1, tags: [Bonus Scene, Both During & After Credits]}
+tt10228168: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7670212: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt1206885: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sunset Credit]}
+tt8134742: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt5433114: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt0133093: {rating: 0, votes: 0, tags: [After Credits, Informative]}
+tt5503686: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10276114: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt10132048: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt7549776: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt10627720: {rating: 1, votes: 3, tags: [Bonus Scene, During Credits, Sequel Setup]}
+tt6189022: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt2365580: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Still Images]}
+tt7547410: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Musical]}
+tt3920820: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Still Images]}
+tt7740284: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
+tt4180560: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt4995776: {rating: 0, votes: 0, tags: [Bonus Scene]}
+tt6806448: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt8006926: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Informative]}
+tt7131622: {rating: 0, votes: 0, tags: [Audio, Bonus Scene, Both During & After Credits]}
+tt5884004: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7339248: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6435258: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt7374948: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8772262: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt6320628: {rating: 3, votes: 3, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Sequel Setup]}
+tt8174450: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt1979376: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Activity Kit, Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
+tt8663516: {rating: 0, votes: 0, tags: [Audio, During Credits, Musical]}
+tt5473090: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Dedications/In Memoriam]}
+tt9403508: {rating: 0, votes: 0, tags: [During Credits]}
+tt5113040: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Audio, Bonus Scene, Both During & After Credits, Musical]}
+tt7721800: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
+tt6938828: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt3741700: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Sequel Setup]}
+tt2066051: {rating: 0, votes: 0, tags: [During Credits]}
+tt10161238: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6139732: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Activity Kit, Bonus Scene, During Credits, Musical]}
+tt7752126: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sequel Setup]}
+tt1298644: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt5125894: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7686448: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2481498: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6268882: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8315302: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt1946502: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt1489887: {rating: 0, votes: 0, tags: [Audio, Bonus Scene, Both During & After Credits, Still Images]}
+tt4154796: {rating: 1, votes: 1, tags: [3D/4D/IMAX Quality Poll, After Credits, Audio, Bonus Scene]}
+tt8080302: {rating: 0, votes: 0, tags: [Activity Kit, Mega Post, Behind the Scenes, Bonus Scene, During Credits]}
+tt9358044: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt2274648: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt6348138: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Still Images]}
+tt7262882: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2492344: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt4935462: {rating: 0, votes: 0, tags: [Audio, Bonus Scene, Both During & After Credits, Musical]}
+tt6483364: {rating: 0, votes: 0, tags: [Mega Post, Behind the Scenes, Bonus Scene, During Credits]}
+tt3340446: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt0448115: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt6890618: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8819596: {rating: 0, votes: 0, tags: [During Credits, Outtake]}
+tt7738450: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt5968394: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6428676: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Both During & After Credits]}
+tt5952594: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt4357714: {rating: 0, votes: 0, tags: [Blooper, During Credits, Outtake]}
+tt4154664: {rating: 1, votes: 1, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Both During & After Credits, Dedications/In Memoriam, Sequel Setup]}
+tt7903530: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7054636: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, During Credits, Outtake]}
+tt3201736: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt8155288: {rating: 0, votes: 0, tags: [Bonus Scene, Sequel Setup]}
+tt2452244: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
+tt6513120: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7236034: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt7149336: {rating: 0, votes: 0, tags: [Blooper, During Credits, Outtake]}
+tt7043012: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt3513498: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt7634968: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt4504044: {rating: 0, votes: 0, tags: [After Credits, Audio]}
+tt6183104: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, Both During & After Credits]}
+tt4211044: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt5304992: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6266538: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt3385524: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Still Images]}
+tt7905466: {rating: 1, votes: 1, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt6848624: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt4701182: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, During Credits, Sequel Setup]}
+tt1477834: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, During Credits, Sequel Setup]}
+tt4633694: {rating: 0, votes: 0, tags: [Activity Kit, After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt7549618: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt9225192: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6749318: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt4712076: {rating: 0, votes: 0, tags: [During Credits, Sunset Credit]}
+tt2368254: {rating: 0, votes: 0, tags: [Dedications/In Memoriam, During Credits, Still Images]}
+tt5848272: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Activity Kit, Bonus Scene, Both During & After Credits]}
+tt7401588: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Still Images]}
+tt0418879: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt2709692: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt1273221: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt6518270: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt1226837: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt5523010: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Activity Kit, Bonus Scene, During Credits]}
+tt1727824: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, During Credits, Musical]}
+tt8097306: {rating: 0, votes: 0, tags: [Blooper, During Credits, Outtake]}
+tt1034415: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt1502407: {rating: 0, votes: 0, tags: [Audio, Dedications/In Memoriam, During Credits]}
+tt4595882: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt6662736: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt3722234: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Informative, Still Images]}
+tt5664636: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt6628394: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
+tt2404639: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt5691670: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt7339792: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Still Images]}
+tt6998518: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene, Dedications/In Memoriam]}
+tt1270797: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Both During & After Credits, Sequel Setup]}
+tt6182908: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, Both During & After Credits, Still Images]}
+tt2119543: {rating: 0, votes: 0, tags: [3D/4D/IMAX Quality Poll, Bonus Scene, During Credits]}
+tt6205872: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
+tt5424228: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Still Images]}
+tt6384386: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
+tt7208564: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits]}
+tt6859352: {rating: 0, votes: 0, tags: [Audio, During Credits]}
+tt5645932: {rating: 0, votes: 0, tags: [After Credits, Still Images]}
+tt7966920: {rating: 0, votes: 0, tags: [After Credits, Audio]}
+tt1308728: {rating: 0, votes: 0, tags: [Mega Post, Behind the Scenes, Bonus Scene, During Credits, Musical]}
+tt3104988: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt5607096: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt7476236: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7365604: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, Both During & After Credits, Outtake]}
+tt4575576: {rating: -1, votes: 1, tags: [Activity Kit, Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt8116428: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7457716: {rating: 0, votes: 0, tags: [After Credits, Bonus Scene]}
+tt6663582: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt4940416: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt7424200: {rating: 0, votes: 0, tags: [Bonus Scene, Both During & After Credits, Fourth Wall]}
+tt6869538: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Sequel Setup]}
+tt5460880: {rating: 0, votes: 0, tags: [During Credits, Still Images]}
+tt6911608: {rating: 2, votes: 2, tags: [Bonus Scene, Both During & After Credits, Musical]}
+tt6510332: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt5688932: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
+tt6133466: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits, Sequel Setup]}
+tt7334528: {rating: 0, votes: 0, tags: [Blooper, Bonus Scene, During Credits, Outtake]}
+tt7664504: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits]}
+tt6452574: {rating: 1, votes: 1, tags: [During Credits, Musical]}
+tt2854926: {rating: 0, votes: 0, tags: [Bonus Scene, During Credits, Musical]}
+tt5834262: {rating: 0, votes: 0, tags: [Bonus Scene, Dedications/In Memoriam, During Credits]}
