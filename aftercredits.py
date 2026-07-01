@@ -1,4 +1,4 @@
-import os, re, sys
+import os, re, sys, time
 from datetime import datetime, UTC
 
 if sys.version_info[0] != 3 or sys.version_info[1] < 11:
@@ -32,20 +32,43 @@ page_num = 0
 rows = []
 data = YAML(path=os.path.join(base_dir, "aftercredits.yml"), start_empty=True)
 headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.5",
 }
+session = requests.Session()
+session.headers.update(headers)
+
+def get_page(page_url):
+    for attempt in range(4):
+        response = session.get(page_url, timeout=30)
+        if response.status_code == 429:
+            wait_time = 5 * (attempt + 1)
+            logger.warning(f"Rate limited while fetching {page_url}; retrying in {wait_time}s")
+            time.sleep(wait_time)
+            continue
+        if response.status_code >= 400:
+            raise ValueError(f"Skipped {page_url}: HTTP {response.status_code}")
+        return html.fromstring(response.content)
+    raise ValueError(f"Skipped {page_url}: HTTP 429 after retries")
 
 while url:
     page_num += 1
     logger.info(f"Parsing Page {page_num}: {url}")
-    response = html.fromstring(requests.get(url, headers=headers).content)
+    try:
+        response = get_page(url)
+    except ValueError as e:
+        logger.warning(e)
+        break
 
-    for media_url in response.xpath("//h3[contains(@class, 'entry-title')]/a/@href"):
+    media_urls = response.xpath("//h3[contains(@class, 'entry-title')]/a/@href")
+    if not media_urls:
+        logger.warning(f"No media links found on page {page_num}")
+
+    for media_url in media_urls:
         try:
             logger.trace(f"Parsing Media: {media_url}")
-            media_response = html.fromstring(requests.get(media_url, headers=headers).content)
-            imdb_url = media_response.xpath("//a[text()='IMDb']/@href")
+            media_response = get_page(media_url)
+            imdb_url = media_response.xpath("//a[normalize-space()='IMDb']/@href")
             if not imdb_url:
                 raise ValueError(f"Skipped {media_url}: IMDb URL not found")
 
@@ -65,6 +88,7 @@ while url:
             data[imdb_id] = YAML.inline({"rating": rating, "votes": votes, "tags": tags})
         except ValueError as e:
             logger.warning(e)
+        time.sleep(1)
 
     next_page = response.xpath("//a[@aria-label='next-page']/@href")
     url = next_page[0] if next_page else None
@@ -72,15 +96,23 @@ while url:
 
 headers = ["IMDb ID", "Rating", "Votes", "Tags"]
 widths = []
-for i, header in enumerate(headers):
-    _max = len(str(max(rows, key=lambda t: len(str(t[i])))[i]))
-    widths.append(_max if _max > len(header) else len(header))
+
+if rows:
+    for i, header in enumerate(headers):
+        _max = len(str(max(rows, key=lambda t: len(str(t[i])))[i]))
+        widths.append(_max if _max > len(header) else len(header))
+else:
+    widths = [len(header) for header in headers]
+    logger.warning("No rows found during scraping")
 
 
 data.yaml.width = 200
-data.save()
+if rows:
+    data.save()
+else:
+    logger.warning("No rows scraped; leaving aftercredits.yml unchanged")
 
-if [item.a_path for item in Repo(path=".").index.diff(None) if item.a_path.endswith(".yml")]:
+if rows and [item.a_path for item in Repo(path=".").index.diff(None) if item.a_path.endswith(".yml")]:
 
     with open("README.md", "r") as f:
         readme_data = f.readlines()
